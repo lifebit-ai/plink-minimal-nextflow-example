@@ -1,0 +1,3 @@
+chr,vcf,index
+21,s3://lifebit-featured-datasets/projects/gel/gwas/testdata/vcfs/sampleA_chr21.vcf.gz,s3://lifebit-featured-datasets/projects/gel/gwas/testdata/vcfs/sampleA_chr21.vcf.gz.csi
+22,s3://lifebit-featured-datasets/projects/gel/gwas/testdata/vcfs/sampleA_chr22.vcf.gz,s3://lifebit-featured-datasets/projects/gel/gwas/testdata/vcfs/sampleA_chr22.vcf.gz.csi
