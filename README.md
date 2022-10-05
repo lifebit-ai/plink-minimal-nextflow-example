@@ -84,7 +84,7 @@ The second line prints the value of this variable on execution of the pipeline.
 
 We can now run this script & set the value of `params.vcf_list` to one of our example CSV files in the testdata folder with the following command:
 ```
-nextflow run main.nf --vcf_list testdata/vcf_list_chr_21_22.csv
+  nextflow run main.nf --vcf_list testdata/local_files_vcf_list_chr_21_22.csv 
 ```
 
 This should return the value you passed on the command line
