@@ -15,7 +15,7 @@ cd plink-nextflow-example
 Example command:
 
 ```
-
+  nextflow run main.nf --vcf_list testdata/local_files_vcf_list_chr_21_22.csv 
 ```
 
 
