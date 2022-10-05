@@ -1,0 +1,3 @@
+chr,vcf,index
+21,testdata/sampleA_chr21.vcf.gz,testdata/sampleA_chr21.vcf.gz.csi
+22,testdata/sampleA_chr22.vcf.gz,testdata/sampleA_chr22.vcf.gz.csi
